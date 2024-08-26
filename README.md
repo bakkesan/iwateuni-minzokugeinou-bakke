@@ -1,13 +1,20 @@
-# iwateuni-minzokugeinou-bakke
+# iwate.univ-bakke
 
 岩手大学民俗芸能サークルばっけ
 公式ホームページ制作のリポジトリ
 
-公開URL : [https://bakkesan.github.io/iwateuni-minzokugeinou-bakke/](https://bakkesan.github.io/iwateuni-minzokugeinou-bakke/)
+公開URL : https://ryoryo-0703.github.io/iwate.univ-bakke/
 
 
 
-<li> html : 文章、外枠、画像のパスなど
-<li> css : 飾り付け。htmlの枠組みを操作して装飾する。サイズ、色、字体、背景など
-<li> JavaScript : cssを裏で操作。結果アニメションになる。
-<li> img : いじるの注意！！フォルダ構造が崩れるとhtmlファイルが任意の画像を参照できなくなり不具合が生じる。
+
+
+＊＊＊　編集予定　＊＊＊<br>
+・ソーラン節の説明文<br>
+・トップのスライド写真を最新の年に<br>
+・獅子保存会の「雌獅子狂い」→「雌獅子ぐれ」<br>
+・演目紹介ページへの遷移元をもっとわかりやすく<br>
+・ばっけ用の GitHub を作る<br>
+・単独公演の集客関係の内容を変更<br>
+・各演目写真の更新<br>
+・フォルダの整理とパスの変更<br>
