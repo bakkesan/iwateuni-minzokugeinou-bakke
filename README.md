@@ -4,7 +4,7 @@
 公式ホームページ制作のリポジトリ
 
 公開URL : https://ryoryo-0703.github.io/iwate.univ-bakke/
-
+         https://bakkesan.github.io/iwateuni-minzokugeinou-bakke/
 
 
 
