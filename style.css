@@ -157,7 +157,7 @@ main{
 /*＝＝＝＝パララックス設定＝＝＝＝*/
 .parallax-bg1 {
     height: 180vh;
-    background-image: url('./img/単独公演2024/sansa 3.jpg');
+    background-image: url('./img/単独公演2024/さんさ舞台写真/sansa 3.jpg');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -165,7 +165,7 @@ main{
 }
 .parallax-bg2 {
     height: 200vh;
-    background-image: url('./img/単独公演2024/sisi 2.jpg');
+    background-image: url('./img/単独公演2024/獅子舞台写真/sisi 2.jpg');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
